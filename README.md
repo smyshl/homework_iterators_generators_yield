@@ -1,0 +1,1 @@
+# Домашняя работа к лекции №2. «Iterators. Generators. Yield»
